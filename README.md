@@ -1,4 +1,3 @@
-
 # Ruby Methods with Regex
 
 ## Objectives
@@ -64,6 +63,4 @@ number_breakdown[0][1]
 
 ```
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/regex-match-scan-grep-methods-readme'>Ruby Methods with Regex</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/regex-match-scan-grep-methods-readme'>Ruby Methods with Regex</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Ruby Methods with Regex</p>
